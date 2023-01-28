@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RedNeutorn
-- 👀 I’m interested in React.js, React Native
-- 🌱 I’m currently learning React.js 
+- 👀 I’m interested in React.js
 - 💞️ I’m looking to collaborate on every one whose like start up business or Development stuff.
-- 📫 How to reach me Contect me on: surachat2014@gmail.com 
+- 📫 How to reach me Contect me on: surachat2014@gmail.com
